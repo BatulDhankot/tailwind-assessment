@@ -11,7 +11,7 @@ const showMenu = ref(false)
     <header>
     <nav class="bg-white border-gray-200 px-4 lg:px-6 py-2.5">
         <div class="flex flex-wrap justify-between items-center mx-auto">
-           <img src="src/assets/Travlog.svg" class="mr-3 h-6 sm:h-9" alt="logo" />
+           <img src="../assets/Travlog.svg" class="mr-3 h-6 sm:h-9" alt="logo" />
             <div class="flex items-center lg:order-2">
                 <a href="#" class="text-gray-800  font-bold hover:text-white hover:bg-purple-800 focus:outline-none focus:ring-4 focus:ring-purple-300 
         rounded-full text-sm px-4 lg:px-5 py-2 lg:py-2.5 mr-2  ">Log in</a>
@@ -93,7 +93,7 @@ const showMenu = ref(false)
 <div>
   <div class="relative">
             <img
-              src="src/assets/layer.svg"
+              src="../assets/layer.svg"
               class="absolute scale-[1.32] top-12 right-6 lg:left-0 lg:w-[590px] md:left-0 md:w-[590px] sm:left-24 sm:w-[300px]"
               alt="layer"
             />
@@ -115,7 +115,7 @@ const showMenu = ref(false)
   </p>
 </button>
                 <img
-                  src="src/assets/banner.svg"
+                  src="../assets/banner.svg"
                   class="absolute bottom-0 lg:self-end lg:bottom-auto lg:left-0 lg:h-auto"
                   alt=""
                  />

@@ -13,7 +13,7 @@
     <div class="rounded overflow-hidden flex flex-col">
         <a href="#"></a>
         <div class="relative"><a href="#">
-                <img class="w-full" src="src/assets/Rectangle.svg">
+                <img class="w-full" src="../assets/Rectangle-1.svg">
                 <div
                     class="bg-transparent transition duration-300 absolute bottom-0 top-0 right-0 left-0 opacity-25">
                 </div>
@@ -58,7 +58,7 @@
         <a href="#"></a>
         <div class="relative"><a href="#">
                 <img class="w-full"
-                src="src/assets/Rectangle-1.svg">
+                src="../assets/Rectangle-1.svg">
                 <div
                     class="bg-transparent transition duration-300 absolute bottom-0 top-0 right-0 left-0 opacity-25">
                 </div>
@@ -102,7 +102,7 @@
         <a href="#"></a>
         <div class="relative"><a href="#">
                 <img class="w-full"
-                src="src/assets/Rectangle-2.svg">
+                src="../assets/Rectangle-2.svg">
                 <div
                     class="bg-transparent transition duration-300 absolute bottom-0 top-0 right-0 left-0  opacity-25">
                 </div>

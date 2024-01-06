@@ -13,7 +13,7 @@ import { productLinks,companyLinks,supportLinks,contactInfo,IconClasses,iconPath
         <div>
           <h6
             class="mb-4 flex items-center justify-center font-semibold uppercase md:justify-start">
-            <img src="src/assets/Travlog.svg" class="mr-3 h-6 sm:h-9" alt="logo" />
+            <img src="../assets/Travlog.svg" class="mr-3 h-6 sm:h-9" alt="logo" />
           </h6>
           <p>
            Lorem ipsum dolor sit amet, consectetur adipisicing
